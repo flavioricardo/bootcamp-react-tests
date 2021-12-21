@@ -1,3 +1,3 @@
-## TDD com Jest e React Testing Library
+## TDD with Jest and React Testing Library
 
-Projeto de estudo para disciplina de TDD com Jest e React Testing Library do Bootcamp Desenvolvedor React do IGTI
+Study project for the discipline TDD with Jest and React Testing Library of React Developer Bootcamp from IGTI
